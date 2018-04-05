@@ -1,7 +1,7 @@
 === Tour Operator Activities ===
 Contributors: feedmymedia
 Donate link: https://www.lsdev.biz/product/tour-operator-activities/
-Tags: tour operator, lsx theme, accomodation, post type, destinations
+Tags: tour operator, lsx theme, accommodation, post type, destinations
 Requires at least: 4.3
 Tested up to: 4.9.4
 Requires PHP: 7.0
