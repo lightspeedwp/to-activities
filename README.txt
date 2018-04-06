@@ -15,7 +15,7 @@ Adds the activities post type to your tour operator website, which you can featu
 Get your visitors excited about what they’ll be doing when they travel with you, whether it’s river rafting, whale watching or sandboarding – use the Activities post type with beautiful imagery and well-crafted copy and then set the activities as connected to particular tours, destinations and accommodations.
 
 = Works with the LSX Theme =
-We've also made a fantastic [theme](https://www.lsdev.biz/product/lsx-wordpress-theme/) that work well with the Tour Operation  Activities plugin.
+We've also made a fantastic [theme](https://www.lsdev.biz/product/lsx-wordpress-theme/) that works well with the Tour Operation  Activities plugin.
 
 = It's free, and always will be. =
 We’re firm believers in open source - that’s why we’re releasing the Tour Operator Activities plugin for free, forever. We offer free support on the [Tour Operator Activities support forums](https://wordpress.org/support/plugin/to-activities).
