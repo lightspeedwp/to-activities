@@ -1,4 +1,4 @@
-<p align="center"><a target="_blank" href="https://tour-operator.lsdev.biz/"><img width="100px;" src="https://tour-operator.lsdev.biz/wp-content/uploads/2019/04/icon-activities.svg" alt="Tour Operator Activities Extension"></a>
+<p align="center"><a target="_blank" href="https://www.lsdev.biz/lsx/extensions/tour-operator/activities/"><img width="100px;" src="https://www.lsdev.biz/lsx/wp-content/uploads/2020/09/LSX-Tour-Operator-Extension-TO-Activities.svg" alt="Tour Operator Activities Extension"></a>
 
 </p>
 <h1 align="center">Tour Operator Activities</h1>
@@ -10,25 +10,22 @@
     <a href="https://tour-operator.lsdev.biz/"><img src="https://lsx.lsdev.biz/wp-content/uploads/2019/06/Designed-for-Tour-Operator-plugin-1098ad.png" alt="Tour Operator"></a>
 </p>
 
-Welcome to the [Tour Operator Activities extension](https://tour-operator.lsdev.biz/extensions/activities/).
+Welcome to the [Tour Operator Activities extension](https://tour-operator.lsdev.biz/extensions/activities/) repository.
 
-If you haven't yet had the chance to [install and configure the Tour Operator Plugin](https://tour-operator.lsdev.biz), you should do that before proceeding here! 
+
+
 
 Get your visitors excited about what they’ll be doing when they travel with you, whether it’s river rafting, whale watching or sandboarding – use the Activities post type with beautiful imagery and well-crafted copy and then set the activities as connected to particular tours, destinations and accommodations.
 
 The to activities plugin allows you to display your Tour Operator activities beautifully on your website.
 
-## Works with the LSX Theme
+## Works with the LSX Theme & LSX Tour Operator
 
-The [Tour Operator Plugin](https://tour-operator.lsdev.biz) and [Extensions](https://tour-operator.lsdev.biz/extensions/) are designed to work seamlessly with the LSX theme. 
+The [LSX Tour Operator Activities extension](https://www.lsdev.biz/lsx/extensions/tour-operator/activities/) are designed to work seamlessly with the [LSX theme](https://www.lsdev.biz/lsx/). 
 
-We are always updating our software to add functionality, and maintain latest security protocols. 
+Be sure to [install and configure the Tour Operator Plugin](https://www.lsdev.biz/lsx/extensions/tour-operator/) before installing the Activities extension! 
 
-## Gutenberg Compatible Plugin
-
-Have you updated to the new WordPress Gutenberg editor? We've got you covered! The Tour Operator Activities Plugin has been optimized for the Gutenberg update. 
-
-Check out our [Tour Operator dedicated website](https://tour-operator.lsdev.biz/) to check out all our available extensions and features.
+Check out the [LSX Tour Operator product page](https://www.lsdev.biz/lsx/extensions/tour-operator/) yo read more about the plugin features and available extensions.
 
 ## It's free, and always will be.
 We’re firm believers in open source - that’s why this extension is free, and that won't change. 
