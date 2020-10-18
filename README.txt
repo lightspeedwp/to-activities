@@ -50,12 +50,22 @@ Yes you can! Join in on our [GitHub repository](https://github.com/lightspeeddev
 
 
 
+
 == Frequently Asked Questions ==
 
 Take a look at all our [Frequently Asked Questions](https://www.lsdev.biz/lsx/documentation/lsx-theme/lsx-theme-faqs/), we are sure you'll find what you're looking for. 
 
+= First question? =
+First answer
+
+= Second question? =
+First answer
+
+= Third question? =
+First answer
+
 == Changelog == 
 
-[Lastest changelogs can be found on GitHub](https://github.com/lightspeeddevelopment/to-activites/blob/master/changelog.md).
+[Lastest changelogs can be found on GitHub](https://github.com/lightspeeddevelopment/lsx/blob/master/changelog.md).
 
 == Upgrade Notice == 
