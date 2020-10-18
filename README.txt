@@ -19,7 +19,7 @@ Get your visitors excited about what they’ll be doing when they travel with yo
 We've also made a fantastic [theme](https://www.lsdev.biz/lsx/) that works well with the LSX Tour Operation Activities plugin.
 
 = It's free, and always will be. =
-We’re firm believers in open source - that’s why we’re releasing the Tour Operator Activities plugin for free, forever. 
+We’re firm believers in open source - that’s why we’re releasing the LSX Tour Operator Activities plugin for free, forever. 
 
 == Support ==
 
