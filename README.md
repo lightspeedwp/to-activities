@@ -1,4 +1,4 @@
-<p align="center"><a target="_blank" href="https://www.lsdev.biz/lsx/extensions/tour-operator/activities/"><img width="100px;" src="https://www.lsdev.biz/lsx/wp-content/uploads/2020/09/LSX-Tour-Operator-Extension-TO-Activities.svg" alt="LSX Tour Operator Activities Extension"></a>
+<p align="center"><a target="_blank" href="https://www.lsdev.biz/lsx/extensions/tour-operator/activities/"><img src="https://www.lsdev.biz/lsx/wp-content/uploads/2020/09/tour-operator-activities-banner-1544x500-1.jpg" alt="LSX Tour Operator Activities Extension"></a>
 </p>
 <h1 align="center">LSX Tour Operator Team Extension</h1>
 
@@ -7,6 +7,8 @@
 	<a href="https://lsdev.biz/lsx/extensions/tour-operator/"><img src="https://www.lsdev.biz/lsx/wp-content/uploads/2019/06/Designed-for-Tour-Operator-plugin-1098ad.png" alt="LSX Tour Operator"></a>
   <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img src="https://poser.pugx.org/woocommerce/woocommerce/license" alt="license"></a>
   <a href="http://gulpjs.com/"><img src="https://img.shields.io/badge/built%20with-gulp.js-green.svg" alt="Built with gulp.js"></a> 
+  <a href="https://codeclimate.com/github/lightspeeddevelopment/to-activities/"><img src="https://codeclimate.com/github/lightspeeddevelopment/to-activities/badges/gpa.svg" alt="Code Climate"></a>
+  <a href="https://scrutinizer-ci.com/g/lightspeeddevelopment/to-activities/?branch=master"><img src="https://scrutinizer-ci.com/g/lightspeeddevelopment/to-activities/badges/quality-score.png?b=master" alt="Scrutinizer"></a>
     <a href="https://travis-ci.org/github/lightspeeddevelopment/to-activities"><img src="https://travis-ci.org/lightspeeddevelopment/to-activities.svg?branch=master" alt="Build Status"></a>
 </p>
 
