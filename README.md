@@ -36,7 +36,7 @@ We are constantly maintaining and updating our extension so you have the latest 
 
 ## Documentation
 
-Anything you need to double check, or simply need a walkthrough for setting up the extension? Visit the [Tour Operator Activities documentation](https://tour-operator.lsdev.biz/documentation/extension/activities/).
+Anything you need to double check, or simply need a walkthrough for setting up the extension? Visit the [Tour Operator Activities documentation](hhttps://lsdev.biz/lsx/documentation/lsx-tour-operator/activities/).
 
 ## Help & Support
 
