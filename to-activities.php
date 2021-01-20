@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Tour Operator Activities
+ * Plugin Name: LSX Tour Operator Activities
  * Plugin URI:  https://www.lsdev.biz/product/tour-operator-activities/
  * Description: The Tour Operator Activities extension adds “Activities” as a post type, which can be featured as part of a tour, at a specific destination, at an accommodation, and so on.
  * Version:     1.1.2
