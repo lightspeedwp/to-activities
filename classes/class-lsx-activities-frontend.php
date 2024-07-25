@@ -33,13 +33,13 @@ class LSX_Activities_Frontend extends LSX_Activities {
 		add_filter( 'lsx_to_entry_class', array( $this, 'entry_class' ) );
 		add_action( 'init',array( $this, 'init' ) );
 
-		if ( ! class_exists( 'LSX_TO_Template_Redirects' ) ) {
+		/*if ( ! class_exists( 'LSX_TO_Template_Redirects' ) ) {
 			require_once( LSX_ACTIVITIES_PATH . 'classes/class-template-redirects.php' );
 		}
 
-		$this->redirects = new LSX_TO_Template_Redirects( LSX_ACTIVITIES_PATH, array_keys( $this->post_types ) );
+		$this->redirects = new LSX_TO_Template_Redirects( LSX_ACTIVITIES_PATH, array_keys( $this->post_types ) );*/
 
-		add_action( 'lsx_to_activity_content', array( $this->redirects, 'content_part' ), 10 , 2 );
+		//add_action( 'lsx_to_activity_content', array( $this->redirects, 'content_part' ), 10 , 2 );
 
 		add_filter( 'lsx_to_page_navigation', array( $this, 'page_links' ) );
 
