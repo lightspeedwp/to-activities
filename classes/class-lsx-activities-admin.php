@@ -90,7 +90,7 @@ class LSX_Activities_Admin extends LSX_Activities {
 		if ( false !== $post_type ) {
 			$fields[] = array(
 				'id' => 'activity_to_' . $post_type,
-				'name' => 'Activities related with this ' . $post_type,
+				'name' => __( 'Related Activities', 'to-activities' ),
 				'type' => 'pw_multiselect',
 				'use_ajax' => false,
 				'repeatable' => false,
