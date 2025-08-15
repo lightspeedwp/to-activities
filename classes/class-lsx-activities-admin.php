@@ -27,6 +27,7 @@ class LSX_Activities_Admin extends LSX_Activities {
 		add_filter( 'lsx_get_post-types_configs', array( $this, 'post_type_config' ), 10, 1 );
 		add_filter( 'lsx_get_metaboxes_configs', array( $this, 'meta_box_config' ), 10, 1 );
 
+		add_filter( 'lsx_to_post_custom_fields', array( $this, 'custom_fields' ) );
 		add_filter( 'lsx_to_destination_custom_fields', array( $this, 'custom_fields' ) );
 		add_filter( 'lsx_to_tour_custom_fields', array( $this, 'custom_fields' ) );
 		add_filter( 'lsx_to_accommodation_custom_fields', array( $this, 'custom_fields' ) );
